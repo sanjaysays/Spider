@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderTest", "SpiderRoboticTest\SpiderTest.csproj", "{89A39643-90BB-4C35-A473-C5890C69156C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider", "spiderchanged\Spider.csproj", "{F683D27C-ABA9-4EDE-8C43-2115D2E536AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A39643-90BB-4C35-A473-C5890C69156C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A39643-90BB-4C35-A473-C5890C69156C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A39643-90BB-4C35-A473-C5890C69156C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A39643-90BB-4C35-A473-C5890C69156C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F683D27C-ABA9-4EDE-8C43-2115D2E536AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F683D27C-ABA9-4EDE-8C43-2115D2E536AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F683D27C-ABA9-4EDE-8C43-2115D2E536AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F683D27C-ABA9-4EDE-8C43-2115D2E536AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA16257F-4B02-47DE-B981-958F231E8216}
+	EndGlobalSection
+EndGlobal
